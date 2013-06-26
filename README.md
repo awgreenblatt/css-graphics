@@ -1,7 +1,7 @@
 css-graphics
 ============
 
-There are several CSS graphics-related properties that provide the bulk of support for Clipping, Masking, Filters and whatnot.  The purpose of this repo is to hopefully provide some insight into what the current state of affairs is with various browsers. 
+There are several CSS graphics-related properties that provide the bulk of support for Clipping, Masking, Filters and whatnot.  The purpose of this repo is to hopefully provide some insight into what the current state of affairs is with various browser implementations.
 
 The 'Apply To' column below distinguishes whether we're talking about applying the feature to HTML or SVG graphic components.  If you apply a feature to an entire embedded SVG graph, that falls under the HTML category.  If however, you're talking about applying the feature to a subgraph within the SVG, that falls into the SVG category.
 
