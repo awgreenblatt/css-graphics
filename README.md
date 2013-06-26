@@ -13,7 +13,7 @@ In fact, if any of this information is out of date, please update and do a pull 
 
 <table>
 <thead>
-<tr><th>Feature</th><th>Apply To</th><th width="140px">Safari</th><th width="150px">Chrome</th><th>Firefox</th><th>IE</th><th>Comments</th></tr>
+<tr><th>Feature</th><th>Apply To</th><th width="150px">Safari</th><th width="150px">Chrome</th><th>Firefox</th><th>IE</th><th>Comments</th></tr>
 </thead>
 <tbody>
 
