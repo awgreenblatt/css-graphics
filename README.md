@@ -1,3 +1,13 @@
+<style>
+td {
+	white-space: nowrap;
+}
+
+td:last-of-type {
+	white-space: normal;
+}
+</style>
+
 css-graphics
 ============
 
