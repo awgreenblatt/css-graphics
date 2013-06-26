@@ -13,7 +13,7 @@ In fact, if any of this information is out of date, please update and do a pull 
 
 <table>
 <thead>
-<tr><th>Feature</th><th>Apply To</th><th>Safari</th><th>Chrome</th><th>Firefox</th><th>IE</th><th>Comments</th></tr>
+<tr><th>Feature</th><th>Apply To</th><th width="20rem">Safari</th><th>Chrome</th><th>Firefox</th><th>IE</th><th>Comments</th></tr>
 </thead>
 <tbody>
 
@@ -23,7 +23,7 @@ In fact, if any of this information is out of date, please update and do a pull 
 <tr><td rowspan="2">clip-path with SVG path</td><td>HTML</td><td>No</td><td>-webkit-clip-path</td><td>No</td><td>No</td><td></td></tr>
 <tr><td>SVG</td><td>clip-path</td><td>clip-path</td><td>clip-path</td><td>clip-path</td><td></td></tr>
 
-<tr><td rowspan="2">mask-image</td><td>HTML</td><td style="white-space:nowrap">-webkit-mask-image</td><td style="white-space:nowrap">-webkit-mask-image</td><td>No</td><td>No</td><td>Uses alpha masking</td></tr>
+<tr><td rowspan="2">mask-image</td><td>HTML</td><td>-webkit-mask-image</td><td>-webkit-mask-image</td><td>No</td><td>No</td><td>Uses alpha masking</td></tr>
 <tr><td>SVG</td><td>No</td><td>No</td><td>No</td><td>No</td><td></td></tr>
 
 <tr><td rowspan="2">mask-box-image</td><td>HTML</td><td>-webkit-box-image</td><td>-webkit-box-image</td><td>No</td><td>No</td><td></td></tr>
