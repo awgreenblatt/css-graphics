@@ -9,7 +9,7 @@ For each browser column, a 'No' indicates the feature is currently unsupported. 
 
 I don't have much information at this point on Opera, so have decided to leave it out for now.  If you want, go ahead and fill it out and do a pull request.
 
-In fact, if any of this information is out of date, please update and do a pull request.
+In fact, if any of this information is out of date or incomplete, please update and do a pull request.
 
 <table>
 <thead>
