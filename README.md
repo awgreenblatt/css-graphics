@@ -17,7 +17,7 @@ In fact, if any of this information is out of date, please update and do a pull 
 </thead>
 <tbody>
 
-<tr><td rowspan="2">(clip-path)[http://docs.webplatform.org/wiki/css/properties/clip-path] with basic shapes</td><td>HTML</td><td>No</td><td>-webkit-clip-path</td><td>No</td><td>No</td><td></td></tr>
+<tr><td rowspan="2">(clip-path)[clip-path|http://docs.webplatform.org/wiki/css/properties/clip-path] with basic shapes</td><td>HTML</td><td>No</td><td>-webkit-clip-path</td><td>No</td><td>No</td><td></td></tr>
 <tr><td>SVG</td><td>No</td><td>-webkit-clip-path</td><td>No</td><td>No</td><td></td></tr>
 
 <tr><td rowspan="2">(clip-path)[http://docs.webplatform.org/wiki/css/properties/clip-path] with SVG path</td><td>HTML</td><td>No</td><td>-webkit-clip-path</td><td>No</td><td>No</td><td></td></tr>
