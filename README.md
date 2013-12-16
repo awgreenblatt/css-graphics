@@ -17,20 +17,20 @@ In fact, if any of this information is out of date or incomplete, please update 
 </thead>
 <tbody>
 
-<tr><td rowspan="2"><a href="http://docs.webplatform.org/wiki/css/properties/clip-path">clip-path</a> with basic shapes</td><td>HTML</td><td>No</td><td>-webkit-clip-path</td><td>No</td><td>No</td><td></td></tr>
-<tr><td>SVG</td><td>No</td><td>-webkit-clip-path</td><td>No</td><td>No</td><td></td></tr>
+<tr><td rowspan="2"><a href="http://docs.webplatform.org/wiki/css/properties/clip-path">clip-path</a> with basic shapes</td><td>HTML</td><td>-webkit-clip-path</td><td>-webkit-clip-path</td><td>No</td><td>No</td><td></td></tr>
+<tr><td>SVG</td><td>-webkit-clip-path</td><td>-webkit-clip-path</td><td>No</td><td>No</td><td></td></tr>
 
-<tr><td rowspan="2"><a href="http://docs.webplatform.org/wiki/css/properties/clip-path">clip-path</a> with SVG path</td><td>HTML</td><td>No</td><td>-webkit-clip-path</td><td>No</td><td>No</td><td></td></tr>
+<tr><td rowspan="2"><a href="http://docs.webplatform.org/wiki/css/properties/clip-path">clip-path</a> with SVG path</td><td>HTML</td><td>-webkit-clip-path</td><td>-webkit-clip-path</td><td>No</td><td>No</td><td></td></tr>
 <tr><td>SVG</td><td>clip-path</td><td>clip-path</td><td>clip-path</td><td>clip-path</td><td></td></tr>
 
-<tr><td rowspan="2"><a href="http://docs.webplatform.org/wiki/css/properties/mask-image">mask-image</a></td><td>HTML</td><td>-webkit-mask-image</td><td>-webkit-mask-image</td><td>No</td><td>No</td><td>Uses alpha masking</td></tr>
+<tr><td rowspan="2"><a href="http://docs.webplatform.org/wiki/css/properties/mask-image">mask-image</a></td><td>HTML</td><td>-webkit-mask-image</td><td>-webkit-mask-image</td><td>No</td><td>No</td><td>Uses alpha masking by default</td></tr>
 <tr><td>SVG</td><td>No</td><td>No</td><td>No</td><td>No</td><td></td></tr>
 
-<tr><td rowspan="2"><a href="http://docs.webplatform.org/wiki/css/properties/mask-box-image">mask-box-image</a></td><td>HTML</td><td>-webkit-box-image</td><td>-webkit-box-image</td><td>No</td><td>No</td><td></td></tr>
+<tr><td rowspan="2"><a href="http://docs.webplatform.org/wiki/css/properties/mask-box-image">mask-box-image</a></td><td>HTML</td><td>-webkit-mask-box-image</td><td>-webkit-mask-box-image</td><td>No</td><td>No</td><td></td></tr>
 <tr><td>SVG</td><td>No</td><td>No</td><td>No</td><td>No</td><td></td></tr>
 
 <tr><td rowspan="2"><a href="http://docs.webplatform.org/wiki/css/properties/mask">mask</a></td><td>HTML</td><td>No</td><td>No</td><td>mask</td><td>No</td><td></td></tr>
-<tr><td>SVG</td><td>mask</td><td>mask</td><td>mask</td><td>mask</td><td>Uses luminance masking</td></tr>
+<tr><td>SVG</td><td>mask</td><td>mask</td><td>mask</td><td>mask</td><td>Uses luminance masking by default</td></tr>
 
 <tr><td rowspan="2"><a href="http://docs.webplatform.org/wiki/css/properties/filter">SVG Filter</a></td><td>HTML</td><td>No</td><td>-webkit-filter</td><td>filter</td><td>No</td><td></td></tr>
 <tr><td>SVG</td><td>filter</td><td>filter</td><td>filter</td><td>filter</td><td></td></tr>
