@@ -17,10 +17,11 @@ In fact, if any of this information is out of date or incomplete, please update 
 </thead>
 <tbody>
 
-<tr><td rowspan="2"><a href="http://docs.webplatform.org/wiki/css/properties/clip-path">clip-path</a> with basic shapes</td><td><a href="">HTML</a></td><td>-webkit-clip-path</td><td>-webkit-clip-path</td><td>No</td><td>No</td><td></td></tr>
+<tr><td rowspan="2"><a href="http://docs.webplatform.org/wiki/css/properties/clip-path">clip-path</a> with basic shapes</td><td>HTML</td><td>-webkit-clip-path</td><td>-webkit-clip-path</td><td>No</td><td>No</td><td></td></tr>
 <tr><td>SVG</td><td>No</td><td>-webkit-clip-path</td><td>No</td><td>No</td><td></td></tr>
 
-<tr><td rowspan="2"><a href="http://docs.webplatform.org/wiki/css/properties/clip-path">clip-path</a> with SVG path</td><td><a href="http://codepen.io/awgreenblatt/pen/GyvLJ">HTML</a></td><td>-webkit-clip-path</td><td>-webkit-clip-path</td><td>No</td><td>No</td><td></td></tr>
+<tr><td rowspan="2"><a href="http://docs.webplatform.org/wiki/css/properties/clip-path">clip-path</a> with SVG path</td><td>HTML</td><td>-webkit-clip-path (buggy)</td><td>-webkit-clip-path (buggy)</td><td>clip-path</td><td>No</td><td></td></tr>
+
 <tr><td>SVG</td><td>clip-path</td><td>clip-path</td><td>clip-path</td><td>clip-path</td><td></td></tr>
 
 <tr><td rowspan="2"><a href="http://docs.webplatform.org/wiki/css/properties/mask-image">mask-image</a></td><td>HTML</td><td>-webkit-mask-image</td><td>-webkit-mask-image</td><td>No</td><td>No</td><td>Uses alpha masking</td></tr>
