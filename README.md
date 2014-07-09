@@ -40,11 +40,11 @@ In fact, if any of this information is out of date or incomplete, please update 
 <tr>
 <td><a href="http://html.adobe.com/webplatform/layout/regions/">regions</a></td>
 <td>HTML</td>
-<td>No</td>
 <td>-webkit-flow-into / -webit-flow-from</td>
 <td>No</td>
 <td>No</td>
-<td></td>
+<td>No</td>
+<td>Chrome dropped support for regions</td>
 </tr>
 
 </tbody>
