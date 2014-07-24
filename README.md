@@ -28,7 +28,7 @@ In fact, if any of this information is out of date or incomplete, please update 
 <tr><td rowspan="2"><a href="http://docs.webplatform.org/wiki/css/properties/mask-image">mask-image</a></td><td>HTML</td><td>-webkit-mask-image</td><td>-webkit-mask-image</td><td>No</td><td>No</td><td>Uses alpha masking by default</td></tr>
 <tr><td>SVG</td><td>No</td><td>No</td><td>No</td><td>No</td><td></td></tr>
 
-<tr><td rowspan="2"><a href="http://docs.webplatform.org/wiki/css/properties/mask-box-image">mask-box-image</a></td><td>HTML</td><td>-webkit-mask-box-image</td><td>-webkit-mask-box-image</td><td>No</td><td>No</td><td></td></tr>
+<tr><td rowspan="2"><a href="http://docs.webplatform.org/wiki/css/properties/mask-border">mask-border-image</a></td><td>HTML</td><td>-webkit-mask-box-image</td><td>-webkit-mask-box-image</td><td>No</td><td>No</td><td></td></tr>
 <tr><td>SVG</td><td>No</td><td>No</td><td>No</td><td>No</td><td></td></tr>
 
 <tr><td rowspan="2"><a href="http://docs.webplatform.org/wiki/css/properties/mask">mask</a></td><td>HTML</td><td>No</td><td>No</td><td>mask</td><td>No</td><td></td></tr>
