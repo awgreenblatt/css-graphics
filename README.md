@@ -21,7 +21,7 @@ In fact, if any of this information is out of date or incomplete, please update 
 
 <tr><td>SVG</td><td>-webkit-clip-path</td><td>-webkit-clip-path</td><td>No</td><td>No</td><td></td></tr>
 
-<tr><td rowspan="2"><a href="http://docs.webplatform.org/wiki/css/properties/clip-path">clip-path</a> with SVG path</td><td>HTML</td><td>-webkit-clip-path</td><td>-webkit-clip-path</td><td>No</td><td>No</td><td></td></tr>
+<tr><td rowspan="2"><a href="http://docs.webplatform.org/wiki/css/properties/clip-path">clip-path</a> with SVG path</td><td>HTML</td><td>-webkit-clip-path</td><td>-webkit-clip-path</td><td>clip-path</td><td>No</td><td></td></tr>
 
 <tr><td>SVG</td><td>clip-path</td><td>clip-path</td><td>clip-path</td><td>clip-path</td><td></td></tr>
 
