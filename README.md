@@ -43,7 +43,7 @@ In fact, if any of this information is out of date or incomplete, please update 
 <td>-webkit-flow-into / -webit-flow-from</td>
 <td>No</td>
 <td>No</td>
-<td>No</td>
+<td>Older support in IE with -ms-flow-into and -ms-flow-from. flow-into works differently, but flow-from is mostly the same.</td>
 <td>Chrome dropped support for regions</td>
 </tr>
 
